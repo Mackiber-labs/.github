@@ -1,5 +1,5 @@
 [![Zenodo](https://img.shields.io/badge/Zenodo-Mackiber%20Labs-1682b4?logo=zenodo)](https://zenodo.org/communities/mackiber-labs/records)
-[![GitHub](https://img.shields.io/badge/GitHub-29%20projects-181717?logo=github)](https://github.com/enriqueherbertag-lgtm)
+[![GitHub](https://img.shields.io/badge/GitHub-39%20projects-181717?logo=github)](https://github.com/enriqueherbertag-lgtm)
 
 # Mackiber-labs
 
