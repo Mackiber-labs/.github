@@ -22,8 +22,8 @@ Divide los datos en 10 flujos a través de distintos satélites. Aunque fallen 2
 **Diseñado para:** Gobiernos, bancos e infraestructura crítica.
 
 ##  Ecosistema
-- **33 proyectos** en GitHub  
-- **28 con DOI** asignado en Zenodo  
+- **40 proyectos** en GitHub  
+- **47 con DOI** asignado en Zenodo  
 - **Licencia:** Uso no comercial permitido con atribución.  
 - **Consultas comerciales:** `eaguayo@migst.cl`
 
